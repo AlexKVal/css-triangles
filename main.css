@@ -51,7 +51,7 @@ table {
 
 body {
   padding: 40px;
-  background-color: #9f5a12;
+  background-color: #00f5ff;
   text-align: center;
   font: 14px/25px Oxygen, Helvetica, sans-serif;
   font-weight: 400; }
@@ -78,8 +78,8 @@ html, body, .l-container {
 .triangle-0 {
   width: 100px;
   height: 100px;
-  border-bottom: solid 50px #d0cfcc;
-  border-right: solid 50px #d0cfcc;
+  border-bottom: solid 50px #0900FF;
+  border-right: solid 50px #0900FF;
   border-left: solid 50px transparent;
   border-top: solid 50px transparent; }
 
