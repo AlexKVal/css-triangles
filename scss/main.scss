@@ -22,3 +22,29 @@ $color-main: #0900FF;
   border-left: solid 50px transparent;
   border-top: solid 50px transparent;
 }
+
+.triangle-1 {
+  width: 100px;
+  height: 100px;
+  border-bottom: solid 50px transparent;
+  border-right: solid 50px $color-main;
+  border-left: solid 50px transparent;
+  border-top: solid 50px transparent;
+}
+
+.triangle-2 {
+  width: 240px;
+  height: 100px;
+  border-bottom: solid 50px $color-main;
+  border-right: solid 50px $color-main;
+  border-left: solid 50px transparent;
+  border-top: solid 50px $color-main;
+}
+
+.ribbon-text {
+  padding-left: 55px;
+  line-height: 0;
+  color: yellow;
+  font-family: Helvetica;
+  font-size: 62px;
+}
